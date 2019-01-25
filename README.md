@@ -26,8 +26,9 @@ https://github.com/mtconnect/py_agent
 
 http://mtcup.org/wiki/Main_Page
 
-https://www.youtube.com/watch?v=3Il-Eyu_XxY
-
+https://www.youtube.com/watch?v=3Il-EYu_XxY&t=
 https://www.mtconnect.org/
 
 http://mtconnectforum.com/Default.aspx
+
+Those wishing to get a better feel for MTConnect should check out the lab directory; there is a readme there that should walk you through some basics, or watch the youtube link above. Additionally, this may be a good starting point for creating our own MTConnect platforms
