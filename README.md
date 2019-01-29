@@ -33,4 +33,6 @@ http://mtconnectforum.com/Default.aspx
 
 https://static1.squarespace.com/static/54011775e4b0bc1fe0fb8494/t/55a93d00e4b03e1c028d77fb/1437154560450/Getting+Started+with+MTConnect+-+FINAL.pdf
 
+https://static1.squarespace.com/static/54011775e4b0bc1fe0fb8494/t/55a95b3ee4b07afa0a97a170/1437162302749/MTConnectWorkshop_2015_Wickelhaus_BuildingAnAdapter.pdf
+
 Those wishing to get a better feel for MTConnect should check out the lab directory; there is a readme there that should walk you through some basics, or watch the youtube link above. Additionally, this may be a good starting point for creating our own MTConnect platforms
